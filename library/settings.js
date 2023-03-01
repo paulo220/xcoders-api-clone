@@ -2,7 +2,7 @@
 module.exports = {
 	service: "gmail",
 	myEmail: 'remotamobile@gmail.com',
-        passEmailApp: '-',
+        passEmailApp: 'xsxhbyziwamlhail',
 	limitCount: 40,
 	limitPremium: 9999,
         expiredTokenDb: 3600,
